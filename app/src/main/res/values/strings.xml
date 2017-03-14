@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustApp</string>
+    <string name="button">Button</string>
+    <string name="ok">OK</string>
+    <string name="welcome_to_cit">Welcome to CIT..!!</string>
+    <string name="exit">Exit</string>
+</resources>
